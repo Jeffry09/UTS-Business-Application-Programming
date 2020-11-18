@@ -1,0 +1,9 @@
+C:\Users\Aldo Andreano\Desktop\03081180035_Jeffry\03081180035_Jeffry\bin\Debug\03081180035_Jeffry.exe.config
+C:\Users\Aldo Andreano\Desktop\03081180035_Jeffry\03081180035_Jeffry\bin\Debug\03081180035_Jeffry.exe
+C:\Users\Aldo Andreano\Desktop\03081180035_Jeffry\03081180035_Jeffry\bin\Debug\03081180035_Jeffry.pdb
+C:\Users\Aldo Andreano\Desktop\03081180035_Jeffry\03081180035_Jeffry\obj\Debug\03081180035_Jeffry.csprojResolveAssemblyReference.cache
+C:\Users\Aldo Andreano\Desktop\03081180035_Jeffry\03081180035_Jeffry\obj\Debug\_03081180035_Jeffry.Form1.resources
+C:\Users\Aldo Andreano\Desktop\03081180035_Jeffry\03081180035_Jeffry\obj\Debug\_03081180035_Jeffry.Properties.Resources.resources
+C:\Users\Aldo Andreano\Desktop\03081180035_Jeffry\03081180035_Jeffry\obj\Debug\03081180035_Jeffry.csproj.GenerateResource.Cache
+C:\Users\Aldo Andreano\Desktop\03081180035_Jeffry\03081180035_Jeffry\obj\Debug\03081180035_Jeffry.exe
+C:\Users\Aldo Andreano\Desktop\03081180035_Jeffry\03081180035_Jeffry\obj\Debug\03081180035_Jeffry.pdb
